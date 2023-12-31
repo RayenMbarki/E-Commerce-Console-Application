@@ -51,17 +51,3 @@ to run the console app :
 
     ```
 
-- to run the console app :
-  ```
-    git clone https://github.com/RayenMbarki/E-Commerce-Console-Application.git
-
-
-    cd E-Commerce-Console-Application/App
-    javac src/Main.java
-    java Main
-
-
-
-
-
-    ```
