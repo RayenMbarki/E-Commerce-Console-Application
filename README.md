@@ -17,7 +17,7 @@ Getting started
 
 ##Getting Started
 - to run the console app :
-
+  ```
     git clone https://github.com/RayenMbarki/E-Commerce-Console-Application.git
 
 
