@@ -45,9 +45,5 @@ to run the console app :
     javac src/Main.java
     java Main
 
-
-
-
-
-    ```
+```
 
