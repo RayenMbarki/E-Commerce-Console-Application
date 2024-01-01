@@ -22,7 +22,7 @@ CLASS:
 ## User / Admin connection system
 
 - a user : can login / logout to the app with the only id and password when creating its account , he's able to search for the product , transfer money to his application wallet , pay and rate a product .
-- admin : can login / logout , has access to the catalogue of the available products and can manage its
+- admin : can login / logout , has access to the catalogue of the available products and can manage it
 
 
 
